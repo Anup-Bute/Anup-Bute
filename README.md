@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MongoDB**
 
-- 👯 I’m looking to collaborate on [VAAYU – The drone service provider Comapny](https://anup-bute.github.io/Project-VAAYU/)
+- 👯 I’m looking to collaborate on [VAAYU – The drone service provider Comapny's Website](https://anup-bute.github.io/Project-VAAYU/)
 
 - 🤝 Successfully completed [Flipkart Clone](https://anup-bute.github.io/Flipkart_clone/)
 
